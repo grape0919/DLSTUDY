@@ -58,6 +58,3 @@ dapple, dapple_num = mul_apple_layer.backward(dapple_price)
 
 print("역전파 : ", dapple, dapple_num, dtax) # 2.2 110 200
 
-
-
-    
